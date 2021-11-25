@@ -738,3 +738,6 @@ https://github.com/xinliangnote/go-gin-api
 - [4. 路由中间件 - 捕获异常](https://mp.weixin.qq.com/s/SconDXB_x7Gan6T0Awdh9A)
 - [5. 路由中间件 - Jaeger 链路追踪（理论篇）](https://mp.weixin.qq.com/s/28UBEsLOAHDv530ePilKQA)
 - [6. 路由中间件 - Jaeger 链路追踪（实战篇）](https://mp.weixin.qq.com/s/Ea28475_UTNaM9RNfgPqJA)
+- [7.测试多余的数据](https://mp.weixin.qq.com/s/Ea28475)
+- [8.测试多余的数据](https://mp.weixin.qq.com/s/Ea28475)
+- [9.测试多余的数据](https://mp.weixin.qq.com/s/Ea28475)
